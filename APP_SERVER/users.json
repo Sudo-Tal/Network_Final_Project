@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "password": "password123",
+        "quota": 1073741824
+    },
+    "user1": {
+        "password": "password123",
+        "quota": 524288000
+    },
+    "dor_cohen": {
+        "password": "pleasegiveus100",
+        "quota": 524288000
+    },
+    "amit_dvir": {
+        "password": "ilovethisserver",
+        "quota": 524288000
+    }
+}

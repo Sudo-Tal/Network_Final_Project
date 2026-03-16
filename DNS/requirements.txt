@@ -1,0 +1,4 @@
+dnslib
+dnspython
+flask
+pyopenssl

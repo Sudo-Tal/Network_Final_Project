@@ -1,0 +1,90 @@
+2026-03-16 20:47:06,203 - INFO - [*] Connecting to server at 10.0.0.12:8443...
+2026-03-16 20:47:06,208 - INFO - --- SERVER AUTHENTICATION ---
+2026-03-16 20:47:12,716 - WARNING - [!] Shutting down client safely...
+2026-03-16 20:47:13,609 - INFO - [*] Connecting to server at 10.0.0.12:8443...
+2026-03-16 20:47:13,615 - INFO - --- SERVER AUTHENTICATION ---
+2026-03-16 20:47:17,611 - INFO - [+] Authentication successful!
+2026-03-16 20:47:17,611 - INFO - =============================================
+ BACKUP CLIENT | User: admin
+ Directory: /home/tal/Networking_Final_project/Networks_final_project/APP_SERVER/client_data
+ Protocol:  TCP
+=============================================
+1. Sync Local Folder to Server (Upload Only)
+2. Restore All Files from Server (Download All)
+3. Deep Manifest Verification (Check Integrity)
+4. Change Target Directory
+5. Toggle Protocol (TCP/RUDP)
+6. Request Quota Increase
+7. Check Storage Usage
+8. Manage / Delete Server Files
+9. Help / What is a Manifest?
+10. Clear Screen
+11. Exit
+2026-03-16 20:47:18,582 - INFO - =============================================
+ BACKUP CLIENT | User: admin
+ Directory: /home/tal/Networking_Final_project/Networks_final_project/APP_SERVER/client_data
+ Protocol:  RUDP
+=============================================
+1. Sync Local Folder to Server (Upload Only)
+2. Restore All Files from Server (Download All)
+3. Deep Manifest Verification (Check Integrity)
+4. Change Target Directory
+5. Toggle Protocol (TCP/RUDP)
+6. Request Quota Increase
+7. Check Storage Usage
+8. Manage / Delete Server Files
+9. Help / What is a Manifest?
+10. Clear Screen
+11. Exit
+2026-03-16 20:47:18,582 - INFO - [+] Protocol successfully switched to RUDP
+2026-03-16 20:47:20,730 - INFO - =============================================
+ BACKUP CLIENT | User: admin
+ Directory: /home/tal/Networking_Final_project/Networks_final_project/APP_SERVER/client_data
+ Protocol:  TCP
+=============================================
+1. Sync Local Folder to Server (Upload Only)
+2. Restore All Files from Server (Download All)
+3. Deep Manifest Verification (Check Integrity)
+4. Change Target Directory
+5. Toggle Protocol (TCP/RUDP)
+6. Request Quota Increase
+7. Check Storage Usage
+8. Manage / Delete Server Files
+9. Help / What is a Manifest?
+10. Clear Screen
+11. Exit
+2026-03-16 20:47:20,730 - INFO - [+] Protocol successfully switched to TCP
+2026-03-16 20:47:21,688 - INFO - =============================================
+ BACKUP CLIENT | User: admin
+ Directory: /home/tal/Networking_Final_project/Networks_final_project/APP_SERVER/client_data
+ Protocol:  RUDP
+=============================================
+1. Sync Local Folder to Server (Upload Only)
+2. Restore All Files from Server (Download All)
+3. Deep Manifest Verification (Check Integrity)
+4. Change Target Directory
+5. Toggle Protocol (TCP/RUDP)
+6. Request Quota Increase
+7. Check Storage Usage
+8. Manage / Delete Server Files
+9. Help / What is a Manifest?
+10. Clear Screen
+11. Exit
+2026-03-16 20:47:21,688 - INFO - [+] Protocol successfully switched to RUDP
+2026-03-16 20:47:22,642 - INFO - =============================================
+ BACKUP CLIENT | User: admin
+ Directory: /home/tal/Networking_Final_project/Networks_final_project/APP_SERVER/client_data
+ Protocol:  TCP
+=============================================
+1. Sync Local Folder to Server (Upload Only)
+2. Restore All Files from Server (Download All)
+3. Deep Manifest Verification (Check Integrity)
+4. Change Target Directory
+5. Toggle Protocol (TCP/RUDP)
+6. Request Quota Increase
+7. Check Storage Usage
+8. Manage / Delete Server Files
+9. Help / What is a Manifest?
+10. Clear Screen
+11. Exit
+2026-03-16 20:47:22,642 - INFO - [+] Protocol successfully switched to TCP
